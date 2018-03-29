@@ -14,9 +14,19 @@ For more details on usage visit  : [https://github.com/rom4ek/ArcNavigationView]
 ---------------------------------------------------------------------------------------------------------------------------
 ### Yalantis/ColorMatchTabs Android
 
-For creating such beutiful color tabs use yalantis library
+For creating such beautiful color tabs use yalantis library
 
 #### Sample:
 <img src="https://raw.githubusercontent.com/Yalantis/ColorMatchTabsAndroid/master/color-tabs-gif.gif" width=650 height=400>
 
 For more details on usage visit  : [https://github.com/Yalantis/ColorMatchTabsAndroid](url)
+
+---------------------------------------------------------------------------------------------------------------------------
+### Yalantis/SearchFilter Android
+
+Implement this wonderful search library
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/Yalantis/SearchFilter/master/gif/dribbble.gif" width=550 height=400>
+
+For more details on usage visit  : [https://github.com/Yalantis/SearchFilter](url)
