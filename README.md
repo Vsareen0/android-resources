@@ -99,5 +99,16 @@ Fairy is an easy debug tool which will allow developer to use adb logcat command
 
 For more details on usage visit  : [https://github.com/Zane96/Fairy](url)
 
+---------------------------------------------------------------------------------------------------------------------------
+### Android Indefinite Pager Indicator
+
+A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/rbro112/Android-Indefinite-Pager-Indicator/master/readme_assets/preview.gif" width=300 height=300>
+
+
+For more details on usage visit  : [https://github.com/rbro112/Android-Indefinite-Pager-Indicator](url)
+
 
 
