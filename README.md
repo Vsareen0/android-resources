@@ -110,5 +110,18 @@ A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & View
 
 For more details on usage visit  : [https://github.com/rbro112/Android-Indefinite-Pager-Indicator](url)
 
+---------------------------------------------------------------------------------------------------------------------------
+### RecyclerBanner
+
+This is not a library but a sample app which shows how to create a carousel using RecyclerView.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/renjianan/RecyclerBanner/master/pictures/banner.gif" width=150 height=300>
+
+
+For more details on usage visit  : [https://github.com/renjianan/RecyclerBanner](url)
+
+
+
 
 
