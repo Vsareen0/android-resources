@@ -121,6 +121,17 @@ This is not a library but a sample app which shows how to create a carousel usin
 
 For more details on usage visit  : [https://github.com/renjianan/RecyclerBanner](url)
 
+---------------------------------------------------------------------------------------------------------------------------
+### Shashank02051997/FancyToast-Android
+
+This library makes native Android Toasts Fancy. It takes the standard Android Toast to the next level with a variety of styling options. It offers also styling Toasts from the code.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/Shashank02051997/FancyToast-Android/master/fancytoastcollage.png" width=450 height=400>
+
+
+For more details on usage visit  : [https://github.com/renjianan/RecyclerBanner](url)
+
 
 
 
