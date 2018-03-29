@@ -77,5 +77,16 @@ An ImageView display in RecyclerView, looks like window.
 
 For more details on usage visit  : [https://github.com/Bleoo/WindowImageView](url)
 
+---------------------------------------------------------------------------------------------------------------------------
+### romandanylyk/ChartView Android
+
+ChartView is an example project of using ValueAnimator in custom view drawing.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/romandanylyk/ChartView/master/assets/chart_view.gif" width=250 height=400>
+
+
+For more details on usage visit  : [https://github.com/romandanylyk/ChartView](url)
+
 
 
