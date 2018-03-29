@@ -88,5 +88,16 @@ ChartView is an example project of using ValueAnimator in custom view drawing.
 
 For more details on usage visit  : [https://github.com/romandanylyk/ChartView](url)
 
+---------------------------------------------------------------------------------------------------------------------------
+### Zane96/Fairy
+
+Fairy is an easy debug tool which will allow developer to use adb logcat command to view Android system log on your Android phone instead of on your PC.You can scan the system log information anywhere with your Android phone which is no need to root.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/Zane96/Fairy/master/screenshot/Screenshot_1.png" width=270 height=420><img src="https://raw.githubusercontent.com/Zane96/Fairy/master/screenshot/Screenshot_2.png" width=270 height=420><img src="https://raw.githubusercontent.com/Zane96/Fairy/master/screenshot/Screenshot_3.png" width=270 height=420><img src="https://raw.githubusercontent.com/Zane96/Fairy/master/screenshot/Screenshot_4.png" width=270 height=420>
+
+
+For more details on usage visit  : [https://github.com/Zane96/Fairy](url)
+
 
 
