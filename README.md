@@ -43,3 +43,15 @@ Beautiful Side Menu
 
 For more details on usage visit  : [https://github.com/Yalantis/Side-Menu.Android](url)
 
+
+
+---------------------------------------------------------------------------------------------------------------------------
+### Yalantis/JellyToolbar Android
+
+Creative animated search bar 
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/Yalantis/JellyToolbar/develop/gif.gif" width=650 height=450>
+
+For more details on usage visit  : [https://github.com/Yalantis/JellyToolbar](url)
+
