@@ -67,4 +67,15 @@ Transitioner provides easy, dynamic and adjustable animations between two views 
 For more details on usage visit  : [https://github.com/dev-labs-bg/transitioner](url)
 
 
+---------------------------------------------------------------------------------------------------------------------------
+### Bleoo/WindowImageView Android
+
+An ImageView display in RecyclerView, looks like window.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/Bleoo/WindowImageView/master/pictures/20171103175130.gif" width=250 height=400><img src="https://raw.githubusercontent.com/Bleoo/WindowImageView/master/pictures/20171120143754.gif" width=250 height=400>
+
+For more details on usage visit  : [https://github.com/Bleoo/WindowImageView](url)
+
+
 
