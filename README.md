@@ -55,3 +55,16 @@ Creative animated search bar
 
 For more details on usage visit  : [https://github.com/Yalantis/JellyToolbar](url)
 
+
+---------------------------------------------------------------------------------------------------------------------------
+### dev-labs-bg/Transitioner Android
+
+Transitioner provides easy, dynamic and adjustable animations between two views with nested children.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/dev-labs-bg/transitioner/master/preview1.gif" width=300 height=230><img src="https://raw.githubusercontent.com/dev-labs-bg/transitioner/master/preview.gif" width=350 height=230>
+
+For more details on usage visit  : [https://github.com/dev-labs-bg/transitioner](url)
+
+
+
