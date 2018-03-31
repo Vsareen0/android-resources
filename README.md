@@ -161,4 +161,19 @@ A layout to transition between two views using a Floating Action Button as shown
 For more details on usage visit  : [https://github.com/truizlop/FABRevealLayout](url)
 
 
+------------------------------------------------------------------------------------------------------------------------------
+
+### Android Sweet Sheet
+
+A layout to transition between two views using a Floating Action Button as shown in many Material Design concepts
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/zzz40500/AndroidSweetSheet/master/screenshot/Design.gif" width=450 height=400><img src="https://raw.githubusercontent.com/zzz40500/AndroidSweetSheet/master/screenshot/SweetSheet.gif" width=350 height=400>
+
+
+
+For more details on usage visit  : [https://github.com/zzz40500/AndroidSweetSheet](url)
+
+
+
 
