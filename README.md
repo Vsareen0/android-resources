@@ -148,6 +148,17 @@ swipe right to display drawer with flowing effects.
 For more details on usage visit  : [https://github.com/mxn21/FlowingDrawer](url)
 
 
+------------------------------------------------------------------------------------------------------------------------------
+
+### FAB Reveal Layout
+
+A layout to transition between two views using a Floating Action Button as shown in many Material Design concepts
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FABRevealLayout.gif" width=250 height=400>
+
+
+For more details on usage visit  : [https://github.com/truizlop/FABRevealLayout](url)
 
 
 
