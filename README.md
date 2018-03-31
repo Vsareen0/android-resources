@@ -203,6 +203,8 @@ This is a project with custom pull-to-refresh layout which contains a interestin
 
 For more details on usage visit  : [https://github.com/tuesda/CircleRefreshLayout](url)
 
-
+-------------------------------------------------------------------------------------------------------------------------
+## For more such resources visit :[Apache libaries](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Layout.md) 
+---------------------------------------------------------------------------------------------------------------------------------
 
 
