@@ -132,6 +132,21 @@ This library makes native Android Toasts Fancy. It takes the standard Android To
 
 For more details on usage visit  : [https://github.com/renjianan/RecyclerBanner](url)
 
+---------------------------------------------------------------------------------------------------------------------------
+
+# Apache Libraries
+
+
+### Flowing Drawer
+
+swipe right to display drawer with flowing effects.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FlowingDrawer.gif" width=450 height=400>
+
+
+For more details on usage visit  : [https://github.com/mxn21/FlowingDrawer](url)
+
 
 
 
