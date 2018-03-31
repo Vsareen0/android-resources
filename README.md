@@ -190,4 +190,19 @@ For more details on usage visit  : [https://github.com/recruit-lifestyle/WaveSwi
 
 
 
+------------------------------------------------------------------------------------------------------------------------------
+
+### Circle Refresh Layout
+
+This is a project with custom pull-to-refresh layout which contains a interesting animation. And the animation is inspired by https://dribbble.com/shots/1797373-Pull-Down-To-Refresh made by Ramotion.
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/tuesda/CircleRefreshLayout/master/gif/circlerefresh.gif" width=250 height=400>
+
+
+
+For more details on usage visit  : [https://github.com/tuesda/CircleRefreshLayout](url)
+
+
+
 
