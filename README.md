@@ -119,7 +119,7 @@ This is not a library but a sample app which shows how to create a carousel usin
 <img src="https://raw.githubusercontent.com/renjianan/RecyclerBanner/master/pictures/banner.gif" width=150 height=300>
 
 
-For more details on usage visit  : (https://github.com/renjianan/RecyclerBanner)[https://github.com/renjianan/RecyclerBanner]
+For more details on usage visit  : [https://github.com/renjianan/RecyclerBanner](https://github.com/renjianan/RecyclerBanner)
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### Shashank02051997/FancyToast-Android
@@ -130,7 +130,7 @@ This library makes native Android Toasts Fancy. It takes the standard Android To
 <img src="https://raw.githubusercontent.com/Shashank02051997/FancyToast-Android/master/fancytoastcollage.png" width=450 height=400>
 
 
-For more details on usage visit  : (https://github.com/renjianan/RecyclerBanner)[https://github.com/renjianan/RecyclerBanner]
+For more details on usage visit  : [https://github.com/renjianan/RecyclerBanner](https://github.com/renjianan/RecyclerBanner)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ swipe right to display drawer with flowing effects.
 <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FlowingDrawer.gif" width=450 height=400>
 
 
-For more details on usage visit  : (https://github.com/mxn21/FlowingDrawer)[https://github.com/mxn21/FlowingDrawer]
+For more details on usage visit  : [https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -158,7 +158,7 @@ A layout to transition between two views using a Floating Action Button as shown
 <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/FABRevealLayout.gif" width=250 height=400>
 
 
-For more details on usage visit  : (https://github.com/truizlop/FABRevealLayout)[https://github.com/truizlop/FABRevealLayout]
+For more details on usage visit  :[https://github.com/truizlop/FABRevealLayout] (https://github.com/truizlop/FABRevealLayout)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -172,7 +172,7 @@ A layout to transition between two views using a Floating Action Button as shown
 
 
 
-For more details on usage visit  : (https://github.com/zzz40500/AndroidSweetSheet)[https://github.com/zzz40500/AndroidSweetSheet]
+For more details on usage visit  : [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -186,7 +186,7 @@ This project aims to provide a reusable WaveSwipe to Refresh widget for Android.
 
 
 
-For more details on usage visit  : (https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)[https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout]
+For more details on usage visit  : [https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)
 
 
 
@@ -201,7 +201,7 @@ This is a project with custom pull-to-refresh layout which contains a interestin
 
 
 
-For more details on usage visit  : (https://github.com/tuesda/CircleRefreshLayout)[https://github.com/tuesda/CircleRefreshLayout]
+For more details on usage visit  : [https://github.com/tuesda/CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)
 
 -------------------------------------------------------------------------------------------------------------------------
 ## For more such resources visit :[Apache libaries](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Layout.md) 
