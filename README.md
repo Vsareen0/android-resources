@@ -213,18 +213,9 @@ For more details on usage visit  : [https://github.com/tuesda/CircleRefreshLayou
 Circular reveal animation for even lazier programmers. An extension of ozodrukh's CircularReveal. Built for even lazier programmers.
 
 #### Sample:
-<img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo3.gif" width=250 height=400>
-
-<img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo1.gif" width=250 height=400>
-
-<img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo2.gif" width=250 height=400>
-
-<img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo3.gif" width=250 height=400>
+<img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo3.gif" width=300 height=450><img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo1.gif" width=300 height=450><img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo2.gif" width=300 height=450><img src="https://raw.githubusercontent.com/hendraanggrian/reveallayout/master/art/demo3.gif" width=300 height=450>
 
 For more details on usage visit  : [https://github.com/hendraanggrian/reveallayout](https://github.com/hendraanggrian/reveallayout)
 
--------------------------------------------------------------------------------------------------------------------------
-## For more such resources visit :[Apache libaries](https://github.com/wasabeef/awesome-android-ui/blob/master/pages/Layout.md) 
---------------------------------------------------------------------------------------------------------------------------------
 
 
