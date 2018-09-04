@@ -217,5 +217,17 @@ Circular reveal animation for even lazier programmers. An extension of ozodrukh'
 
 For more details on usage visit  : [https://github.com/hendraanggrian/reveallayout](https://github.com/hendraanggrian/reveallayout)
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+### Checkable Chip View 
+
+A checkable widget for Android. Based on the [EventFilterView from the Google I/O 2018 app.](https://github.com/google/iosched/blob/2696fc7e06826ba2db72de243f0d63f83f4a29b5/mobile/src/main/java/com/google/samples/apps/iosched/ui/schedule/filters/EventFilterView.kt) 
+
+#### Sample:
+<img src="https://raw.githubusercontent.com/okdroid/checkable-chip-view/master/demo.gif" width=300 height=450>
+
+For more details on usage visit  : [https://github.com/okdroid/checkable-chip-view](https://github.com/okdroid/checkable-chip-view)
+
 
 
